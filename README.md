@@ -15,7 +15,7 @@ A modern Django-based e-commerce platform with advanced features including:
 
 ```bash
 git clone <your-repo-url>
-cd sprint-2-ecommerce
+cd e-commerce
 python -m venv bluewave_env
 source bluewave_env/bin/activate  # On Windows: bluewave_env\Scripts\activate
 pip install -r requirements.txt
